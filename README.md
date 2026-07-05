@@ -35,7 +35,7 @@ Each step is covered in detail below. The whole process takes about 30–45 minu
 1. Go to [sheets.google.com](https://sheets.google.com) and create a new blank spreadsheet
 2. Give it a name like `Strategic Copilot`
 3. Copy the Sheet ID from the URL — it's the long string between `/d/` and `/edit`:
-   `https://docs.google.com/spreadsheets/d/`**`1Ex_DwEeO1tJlPr1OzdQAHCt9ZPfmV6gKWaXMh2wpmt4`**`/edit`
+   `https://docs.google.com/spreadsheets/d/`**`YOUR_SHEET_ID`**`/edit`
 
 That's it for now. **The script automatically creates all the tabs and headers the first time it runs.** You'll fill in your companies and profile in Steps 5 and 6.
 
@@ -126,8 +126,7 @@ Add these three secrets, one at a time:
 
 **Secret 2: `GOOGLE_SHEETS_ID`**
 - *Where it comes from:* it's already in your Google Sheet's URL — you don't need to generate anything
-- Open your Google Sheet and look at the URL in your browser. Copy the long string between `/d/` and `/edit`:
-  `https://docs.google.com/spreadsheets/d/`**`1Ex_DwEeO1tJlPr1OzdQAHCt9ZPfmV6gKWaXMh2wpmt4`**`/edit`
+- Open your Google Sheet and look at the URL in your browser. Copy the long string between `/d/` and `/edit` — that string is your Sheet ID
 - Paste that string as the value of this secret
 
 **Secret 3: `GOOGLE_CREDENTIALS`**
@@ -324,4 +323,4 @@ Test the API URL directly in your browser. For Ashby: `https://api.ashbyhq.com/p
 
 ---
 
-*Built by Jordan Milner.*
+*Built with Claude Code.*

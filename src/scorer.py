@@ -13,7 +13,7 @@ def _build_prompt(job: dict, profile: dict) -> str:
 
     comp_line = f'IN_RANGE (likely {comp}) | BELOW_RANGE | NOT_LISTED' if comp and comp != 'not specified' else 'NOT_LISTED (compensation not specified — do not penalize)'
 
-    return f"""You are the Automated Screening Node for Jordan Milner's executive job search engine.
+    return f"""You are the Automated Screening Node for an executive job search engine.
 
 Analyze this job posting and output ONLY a valid JSON object. No markdown fences, no explanation, no other text.
 
@@ -35,8 +35,8 @@ KEYWORD TRIGGERS (boost score toward 8–10 when present):
 {keywords}
 
 SCORING SCALE — fit_score must be an integer from 1 to 10. Do not exceed 10.
-- 9-10: VP/Director/Head of role with mandate squarely in GTM Strategy, Product Operations, Value Engineering, Business Transformation, AI Transformation, or Digital Transformation — at a B2B SaaS/Cloud/AI company OR any organization where the transformation mandate is GTM/Sales/RevOps-focused and the candidate's cloud/enterprise background directly applies.
-- 7-8: VP/Director/Head of role in adjacent strategic function (Revenue Operations, Sales Strategy, Customer Strategy, AI Strategy & Operations) at a relevant company; OR a strong AI/digital transformation role where the mandate is enterprise-wide process redesign.
+- 9-10: Role at the right level with a mandate that squarely matches the candidate's core function (as defined by their background and keyword triggers above). Company type and industry are a strong fit.
+- 7-8: Right level, adjacent function or slightly different industry — still likely interesting to pursue.
 - 5-6: Promising but scope is unclear, slightly below target level, or a stretch.
 - 3-4: Adjacent function or below-target level. Unlikely strong match.
 - 1-2: Wrong function, wrong level, or wrong industry.
@@ -45,12 +45,12 @@ STRONG NEGATIVE SIGNALS — each one meaningfully pushes the score down toward 1
 {neg}
 
 SCOPE PARAMETERS:
-MATCH — title is VP, Senior Director, Director, or Head of AND reports to C-suite or VP+
+MATCH — title and responsibilities suggest a senior individual driving strategy/mandate at VP, Director, Head of, or equivalent level AND reports to C-suite or VP+
 BELOW — Manager, IC, or unclear seniority
 UNCLEAR — reporting structure not mentioned
 
 ABSTRACT FIT FLAG — answer YES or NO only:
-YES: Role is VP/Director/Head of level AND mandate maps directly to GTM Strategy, Product Operations, Value Engineering, Business/AI/Digital Transformation, or Strategic Operations AND the candidate's cloud/enterprise/GTM background directly applies.
+YES: Role is VP/Director/Head of level (or equivalent) AND mandate maps directly to the candidate's core function and strengths as described in their profile above AND their background directly applies.
 NO: Anything else — adjacent function, IC-level, or mixed signals.
 
 COMPENSATION:
