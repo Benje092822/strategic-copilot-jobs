@@ -16,6 +16,20 @@ You'll need accounts at three services. All are free or have free tiers adequate
 
 ---
 
+## Setup
+
+**Recommended: let Claude walk you through it.**
+
+Open [claude.ai](https://claude.ai) (free account works) and paste this:
+
+> I'm setting up an automated job search pipeline using GitHub Actions and Google Sheets. The repo is at https://github.com/jordanmilner-lgtm/strategic-copilot — can you walk me through the full setup step by step, starting with Step 1?
+
+Claude will read this README and guide you through each step interactively, answer questions as they come up, and help debug anything that goes wrong. This is the fastest path, especially for the Google Cloud steps.
+
+**Prefer to follow the steps yourself?** Full instructions are below.
+
+---
+
 ## Setup — overview
 
 1. Set up your Google Sheet
