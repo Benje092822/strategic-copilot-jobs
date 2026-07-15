@@ -1,160 +1,108 @@
-===================================================================
-SAMPLE JOB 1: STRONG FIT — EY-Parthenon Commercial Strategy Senior Associate/Consultant
-===================================================================
-
-Company: EY (EY-Parthenon)
-Location: Multiple US Locations
-Title: Strategy and Execution - Commercial Strategy - Senior Associate/Consultant
-
-At EY-Parthenon, you'll work with clients on complex commercial strategies, global transactions, and turn-arounds. The Commercial Strategy Senior Associate/Consultant role sits within our Strategy and Execution sub-service line and covers:
-
-- Corporate/Business Unit strategy development
-- Go-to-market strategy (including digital)
-- Commercial operating model design
-- Optimization of commercial functions (sales, service, marketing, pricing)
-- Revenue enhancement and cost/margin improvement
-- Pre-deal strategy including growth assessments (profitability assessments, clean room)
-- Separation and integration strategies
-
-Required Qualifications:
-- Bachelor's degree in Business, Accounting, Finance, Engineering, Computer Science, or Analytics
-- 2 years of related work experience (or graduate degree + 18 months)
-- Management consulting experience preferred
-- Corporate/BU strategy development experience
-- Commercial functions experience (sales, marketing, customer service, pricing)
-- Go-to-market strategy experience
-- Market landscape evaluation experience
-- Pre-deal strategy experience
-- MBA preferred
-- Knowledge of firm-approved AI tools in business setting, including Microsoft Copilot
-
-Skills:
-- Translating complex data into meaningful insights
-- Quantitative and qualitative analysis
-- Structured hypothesis-driven problem solving
-- Financial modeling and business case development
-- Executive storytelling and C-suite alignment
-
-Compensation: $130K-$185K
+JEVIN TRYON
+Charleston, WV | Open to Relocation
+jevintryon@gmail.com | 570-412-2220 | linkedin.com/in/jevintryon
 
 
-===================================================================
-SAMPLE JOB 2: STRONG FIT — Accenture Song Growth Consultant CMT
-===================================================================
+PROFESSIONAL SUMMARY
 
-Company: Accenture Song
-Location: Multiple US Locations
-Title: Growth Consultant, Customer-Led Growth Strategy (CMT sector)
-
-Accenture Song accelerates growth and value for our clients through sustained customer relevance. We bring together strategy, creativity, and technology to help organizations imagine and deliver growth across brand, business, product, marketing, commerce, and service. With deep industry expertise and strong client partnerships, we help Communications, Media and Technology (CMT) leaders design and execute growth strategies that solve real customer needs and deliver measurable outcomes.
-
-Role Purpose:
-Support the development of customer-led growth strategies by combining strong analytical thinking with commercial acumen. As a Consultant you will play a critical role in identifying and sizing opportunities, building robust business cases, and generating the evidence required to validate and prioritize growth bets.
-
-Key Responsibilities:
-- Conduct structured analysis of customer needs, market dynamics, and competitive landscapes to identify actionable growth opportunities
-- Support robust, insight-led business cases to support investment decisions
-- Apply data-driven and hypothesis-led problem solving to assess opportunity viability and prioritize initiatives
-- Support and execute rapid validation approaches (concept testing, experimentation with real and synthetic customers) to generate evidence
-- Synthesize data and insights into clear, compelling recommendations that inform client decision-making
-- Collaborate with cross-functional teams (design, product, marketing, data/AI) to shape and refine customer-centric propositions
-- Contribute to the development of client-ready materials and storytelling, linking customer insight to commercial impact
-
-Qualifications:
-- 3+ years in strategy consulting, corporate innovation, or analytics roles with exposure to growth-oriented work
-- Business case development, financial modeling, or investment analysis experience
-- Exposure to customer research, experimentation, or product/service development
-- MBA or relevant innovation program experience a plus
-- CMT industry experience preferred
-- Understanding of AI/GenAI and its application to customer growth
-
-Compensation: $115K-$155K
+Strategic operator with 10+ years designing and executing commercial strategy, go-to-market, corporate innovation, and pilot-to-scale programs at pre-IPO and venture-backed SaaS, FinTech, gaming, and hospitality companies. Track record joining as inaugural or early hire and delivering 140-150%+ YoY quota attainment while scaling teams from single-digits to 30+ reps. Deep experience translating complex quantitative and qualitative data into executive-ready insights, structuring multi-year commercial partnerships, evaluating early-stage investment opportunities, and running rapid validation programs through structured concept testing and experimentation. Fluent in AI and GenAI applications for enterprise growth (Microsoft Copilot, ChatGPT, LLM-integrated research workflows). Multi-sector exposure: Consumer Products, Retail, Hospitality (CFSP Certified), FinTech and Payments, Enterprise SaaS, Gaming and Interactive Entertainment, eCommerce, Communications and Media, Technology.
 
 
-===================================================================
-SAMPLE JOB 3: STRONG FIT — DoorDash Senior Associate, In-Store Strategy and Operations
-===================================================================
+PROFESSIONAL EXPERIENCE
 
-Company: DoorDash (In-Store / SevenRooms)
-Location: NYC, Atlanta, or Remote
-Title: Senior Associate, In-Store Strategy and Operations
+Commercial Kitchen Designer and Project Manager, CFSP
+Hooten Equipment Company
+Mar 2024 to Present | Charleston, WV
+- Advise hospitality and restaurant operators on capital projects and commercial infrastructure. Own client discovery, requirements structuring, solution design, commercial negotiation, and delivery coordination across contractors, vendors, and ownership groups.
+- CFSP-credentialed with direct working knowledge of restaurant unit economics, back-of-house operating model, and hospitality sector dynamics.
 
-DoorDash's In-Store team owns the commercialization of new SevenRooms add-on products (Events, Lite) from MVP through Sales Pilot to global GTM launch. This role is essentially product marketing + strategy + program management + GTM for early-stage products at an acquired startup inside a large company.
+Business Development, Contract
+Beamable (acquired by Skillz 2026)
+Jun 2025 to Dec 2025 | Remote
+- Drove enterprise pipeline development at a live game services SaaS platform subsequently acquired by Skillz in 2026. Delivered market landscape analysis, competitive positioning, and qualified pipeline across enterprise gaming studios, publishers, and platform partnerships during the pre-acquisition growth phase.
 
-Key Responsibilities:
-- Shepherd new products from MVP definition through Sales Pilot to full GTM launch
-- Act as train conductor across Product, Sales, Marketing, Legal without direct authority
-- Data analysis, financial modeling, sizing market opportunities, analyzing closed-lost deals
-- Translate ambiguous strategic scope into structured plans with defined DRIs, timelines, success metrics
-- Build pipeline dashboards, rep scorecards, and attainment analytics
-- Partner with cross-functional teams to hit strict timelines
+Senior Manager, Business Operations
+Firework (Series B, SoftBank Vision Fund)
+Jun 2022 to Feb 2024 | San Francisco, CA
+- Strategic proxy to the CBO and SVP Revenue at a high-growth commerce and video SaaS company. Owned commercial operating model design across sales, marketing, and customer success: territory modeling, quota design, commission structure, pipeline forecasting, financial modeling.
+- Structured the strategic pilot framework for enterprise SaaS partnerships, moving new commercial models from initial hypothesis through market validation to signed multi-year commercial agreements with strategic retailers. Owned pricing, packaging, sales positioning, and deal negotiation.
+- Built and maintained analytics infrastructure translating complex quantitative and qualitative data into executive-ready insights and board-level narratives: pipeline dashboards, rep scorecards, financial models, and attainment analytics used to inform C-suite investment decisions.
+- Advised leadership on market landscape, competitive dynamics, and closed-lost analysis across new industry verticals. Delivered structured recommendations that shaped resource allocation and GTM strategy for emerging market segments.
+- Collaborated across Product, Design, Marketing, Data, and Finance to shape and refine customer-centric propositions and validate growth bets through structured experimentation.
 
-Qualifications:
-- 3+ years experience in strategy consulting, corporate strategy, business operations, or product marketing
-- Experience with 0-to-1 product commercialization
-- Financial modeling and market sizing experience
-- Hospitality or restaurant tech experience a plus
-- Salesforce, Looker, Gong experience
+Senior Business Development Lead, Strategic Accounts
+Fast
+Jun 2021 to Jun 2022 | San Francisco, CA
+- Inaugural player-coach hire on the Strategic Accounts team at a FinTech payments and one-click checkout platform. Personally achieved 140% YoY quota attainment while growing the team from 4 to 16 reps in 10 months.
+- Pioneered expansion into enterprise eCommerce and retail segments. Facilitated strategic Proofs of Concept with Fortune 500 logos, translating product capability into deployed commercial pilots.
+- Designed account scoring, routing, and qualification frameworks for the Strategic segment. Built competitive intelligence and account planning playbooks that shaped outbound strategy across eCommerce and retail in a category-defining, high-ambiguity commercial environment.
 
-Compensation: $87K-$128K
+Business Development Team Lead, Enterprise Games, Cloud and Gambling
+Unity Technologies (Pre-IPO, Series E)
+Dec 2019 to Jun 2021 | San Francisco, CA
+- Led Global Enterprise Sales Development at Unity prior to the 2021 IPO. Personally achieved 150%+ YoY quota attainment while scaling the SDR team from 6 to 30+ reps with 90% team quota achievement across key growth phases.
+- Implemented data-driven strategic sales plays and AI-enabled research and enrichment workflows across 200+ top game studios, developers, and publishers.
+- Designed the operational systems that made scale possible: rep onboarding curriculum, call and email playbooks, CRM workflows, lead enrichment, account qualification frameworks, and territory planning models.
+- Partnered with Revenue Operations, Marketing, and Enablement on pipeline generation and account-based marketing programs targeting Enterprise Gaming, Cloud, and Gambling segments.
+
+Strategic Partnerships Lead, Business Innovation and Technology Strategy
+Caesars Entertainment (includes Black Fire Innovation Lab program leadership)
+May 2018 to Dec 2019 | Las Vegas, NV
+- Led emerging technology partnership strategy at Caesars Black Fire Innovation Lab, spanning IoT, Big Data, CRM, Mobile, and early enterprise AI. Owned end-to-end delivery of Room of the Future, Kitchen of the Future, and Casino of the Future initiatives, from customer opportunity sizing through business case development, pilot execution, and scaled commercialization with measurable NPS, cost reduction, and revenue impact.
+- Generated $6M in partnership value at 330% of revenue target through direct enterprise negotiation, commercial deal structuring, and multi-party agreement management with CTO, CIO, and VP-level executive buyers at Big Tech partners.
+- Structured 10+ Executive Briefings that aligned 75+ cross-functional stakeholders on a 3 to 5 year technology and commercial roadmap.
+- Co-developed a living technology incubation lab with UNLV, generating $6M in sponsorship at 330% of revenue target. Invited as innovation partner by Panasonic and Apple Design Labs. Delivered first regulated eSports tournament in casino hospitality.
+
+Lean Experimenter, In-Store Omnichannel Innovation
+Walmart eCommerce / Sam's Club
+Mar 2017 to May 2018 | San Francisco Bay Area / Las Vegas, NV
+- First hire on Sam's Club Lean Experiment Team. Built and ran a rapid validation program from scratch, applying concept testing, structured customer experimentation, and Build/Measure/Learn methodology to validate customer-facing growth bets across Membership, Mobile, POS, Wayfinding, Digital Signage, Kiosks, and Shrink Reduction. The program contributed to what is now Sam's Club Now in Dallas, TX.
+- Applied hypothesis-led problem solving to size growth opportunities, run structured pilots with defined success metrics, and translate quantitative and qualitative customer evidence into chain-wide investment and prioritization recommendations. Partnered across Operations, Digital, Marketing, and Finance on cross-functional decision-making.
+- John Furner (now President and CEO of Walmart U.S., then President and CEO of Sam's Club) spoke about the innovation program's impact at the 2019 Walmart Associate and Shareholders Meeting.
+
+Senior Associate
+Rebel Venture Fund, University of Nevada Las Vegas
+Mar 2016 to Jan 2018 | Las Vegas, NV
+- Senior Associate at a $500K student-led venture capital fund. Screened investment opportunities, led 10+ due diligence teams evaluating early-stage companies across market landscape, growth potential, unit economics, and competitive positioning, and successfully green-lit 3 seed investments into the fund portfolio.
+- Advised the RVF management board (composed of local venture capitalists, angel investors, attorneys, and business executives) on investment recommendations. Led UNLV's first entry in the Venture Capital Investor Competition at University of Chicago. Grew fund membership from 12 to 50+ students.
+
+Project Manager, Business Development
+Paymentwall
+Nov 2013 to Jan 2016 | San Francisco, CA
+- Led strategic platform partnerships with Unity3D, Minecraft, Xero, and WHMCS at a global payment processing platform, generating more than half of company revenue across SF, Amsterdam, Kiev, and Berlin. Enhanced internally developed CRM, merchant dashboards, and risk operations processes.
+
+Risk Operations
+StackCommerce (acquired by Viacom)
+May 2013 to Nov 2013 | Venice Beach, CA
+- Led development of global merchant account, payment gateways, and payment risk operations at a native commerce platform subsequently acquired by Viacom. Collaborated with payment processors and risk aggregators to optimize cost reduction. Enhanced chargeback processes, implemented fraudulent user monitoring, and developed comprehensive risk reporting for senior leadership.
 
 
-===================================================================
-SAMPLE JOB 4: CLOSE BUT NOT QUITE — Accenture Mid-Market Strategic Business Partner (Digital Inside Sales)
-===================================================================
+EDUCATION
 
-Company: Accenture Operations
-Location: Multiple US Locations
-Title: Mid-Market Strategic Business Partner / AI Advisor
+Marshall University
+BA, Communication Studies (Expected Fall 2026, online completion available)
+Minors: Business Management, Business Administration, Marketing
 
-Within Operations, we are growing our Digital Inside Sales (DIS) team. We are seeking a Mid-Market Strategic Business Partner to work directly with the client's Mid-Market customers. This role is focused on engaging senior business leaders (often FTSE 250 & Fortune 500 companies) in high-value, consultative conversations around AI transformation, data strategy, and business value creation.
-
-Key Responsibilities:
-- Prospect and qualify new business opportunities through thoughtful, targeted outreach
-- Lead executive level discovery conversations. Engage C-suite and senior stakeholders
-- Shape account strategy, not just pipeline. This includes mapping complex organisations and stakeholders
-- Act as a thought partner to mid-market customers through driving deep, structured discovery
-- Partner closely with Account Directors on account planning and development
-- Own qualification and handoff, ensuring Account Directors receive well-defined, high-quality opportunities
-- Maintain accurate CRM data, forecasting, and activity records
-- Continuously build AI and market expertise
-
-Qualifications:
-- 3+ years enterprise sales or business development experience
-- AI/SaaS solution familiarity
-- Executive-level engagement experience
-- Strong CRM discipline
-
-Compensation: $70K-$110K base (est. $100K-$130K OTE with variable)
-
-Notes on why this is close but not quite: The role is genuinely well-suited to background BUT positioned as a BDR/SDR-tier "Business Partner" that hands off to Account Directors. Level is a step down from Senior Manager tier roles. Application justified only if optimizing for Accenture platform entry.
+University of Nevada, Las Vegas
+Additional Coursework, Communication Studies and Entrepreneurship (2016 to 2018)
 
 
-===================================================================
-SAMPLE JOB 5: NOT A FIT — Deloitte GPS Specialist Manager, Marketing
-===================================================================
+CERTIFICATIONS
 
-Company: Deloitte GPS (Government and Public Services)
-Location: Washington DC / Multiple US Locations
-Title: Specialist Manager, Marketing (GPS Sector)
+- Design For Delight: Innovation Explorer, Intuit (Design Thinking and Customer-Driven Innovation)
+- Innovation Explorer Microcredential, Marshall University iCenter, Sep 2025
+- Lean Six Sigma White Belt, Six Sigma Online / C.S.S.C., Jan 2026
+- Certified Food Service Professional (CFSP), NAFEM
 
-The Specialist Manager will lead marketing strategy, integrated campaigns, and content development for Deloitte's Government and Public Services (GPS) practice serving federal, state, local government, higher education, and nonprofit clients.
 
-Key Responsibilities:
-- Develop strategic marketing plans for the government marketplace
-- Lead integrated marketing campaigns (awareness, leads, ROI measurement)
-- Own content strategy and thought leadership initiatives (white papers, events, omnichannel)
-- Manage creative teams and external agencies
-- Partner with sales, brand, marketing, and communications teams
-- Serve as marketing advisor across a matrixed organization
+CORE COMPETENCIES
 
-Required Qualifications:
-- 7+ years experience in marketing strategy, business marketing planning, and communications
-- 4+ years experience in the government professional services market (HARD REQUIREMENT)
-- Bachelor's degree in Marketing, Advertising, Communications, English, or Public Relations
-- 2+ years managing cross-functional teams
-- 2+ years managing multiple projects with competing deadlines
+Strategy and Advisory: Corporate and Business Unit Strategy, Commercial Strategy and Operating Model Design, Go-to-Market Strategy (Traditional, Digital, Hybrid), Growth Strategy, Business Model Innovation and Reinvention, Pricing and Packaging, Value-Based Pricing, Customer Segmentation, Market Sizing and Competitive Landscape Analysis, Pre-Deal Growth Assessment, Business Case Development, Executive Storytelling and C-Suite Alignment, Opportunity Identification and Sizing, Concept Testing and Rapid Validation, Hypothesis-Led Problem Solving
 
-Compensation: $130K-$180K
+Sales and Account Management: Founding and Early-Stage Sales Motions, Enterprise SaaS Account Development, Consultative and Solution Selling, Executive-Level Engagement (CIO, CTO, Head of IT, VP Ops), Sales Playbook and Cadence Design, Pipeline Generation and Management, Territory Planning and Optimization, Proof of Concept Facilitation, Team Building and Scaling, Revenue Operations, AI-Enabled Prospecting Workflows
 
-Notes on why this is not a fit: Zero government professional services experience. Marketing seat is not a strong match to background (strategic operator/BD/innovation, not marketing practitioner). Gap on the 4+ years government requirement is unfixable and will filter out at ATS stage.
+Innovation and Experimentation: Corporate Innovation, Innovation Program Management, Intake and Evaluation Framework Design, Stage-Gate Pipeline Management, Rapid Validation and Build/Measure/Learn, Customer Research and Insight Synthesis, Cross-Functional Program Delivery (Product, Design, Marketing, Data, AI), Venture Due Diligence and Investment Analysis
+
+Analytics and Tools: Quantitative and Qualitative Analysis, Financial Modeling, KPI and Dashboard Design, Pipeline and Attainment Analytics, Structured Storytelling for C-Suite Audiences, Advanced Spreadsheet Modeling, Salesforce, HubSpot, Outreach, SalesLoft, ZoomInfo, LinkedIn Sales Navigator, PowerBI, Looker, Microsoft Copilot, ChatGPT and LLM-Integrated Research Workflows
+
+Sector Expertise: Consumer, Hospitality, and Restaurants (CFSP Certified), Communications, Media, and Technology (CMT), Enterprise SaaS and Software, FinTech, Payments, and Consumer Banking, Gaming and Interactive Entertainment, eCommerce and Retail, Venture Capital and Early-Stage Investing
